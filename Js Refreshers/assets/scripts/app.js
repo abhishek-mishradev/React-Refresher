@@ -18,7 +18,7 @@
 //   return "Hi, I am " + userName + ". " + message;
 // }
 
-// const greeting1 = createGreeting("Max");
+// const greeting1 = createGreeting("Abhishek");
 // console.log(greeting1);
 
 // const greeting2 = createGreeting("Manuel", "Hello, what's up?");
@@ -30,7 +30,7 @@
 // };
 
 // const user = {
-//   name: "Max",
+//   name: "Abhishek",
 //   age: 34,
 //   greet() {
 //     console.log("Hello!");
@@ -69,7 +69,7 @@
 // const editedHobbies = hobbies.map((item) => ({ text: item }));
 // console.log(editedHobbies);
 
-// const [firstName, lastName] = ["Max", "Schwarzmüller"];
+// const [firstName, lastName] = ["Abhishek", "Mishra"];
 
 // const firstName = userNameData[0];
 // const lastName = userNameData[1];
@@ -78,7 +78,7 @@
 // console.log(lastName);
 
 // const { name: userName, age } = {
-//   name: "Max",
+//   name: "Abhishek",
 //   age: 34
 // };
 
@@ -90,7 +90,7 @@
 
 // const hobbies = ["Sports", "Cooking"];
 // const user = {
-//   name: "Max",
+//   name: "Abhishek",
 //   age: 34
 // };
 
